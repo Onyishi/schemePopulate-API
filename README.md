@@ -1,2 +1,2 @@
-# schemePopulate-API
-Pupulating mongodb schema built with node.js | mongodb | mongoose | express.js
+# schemaPopulate-API
+Populating mongodb schema built with node.js | mongodb | mongoose | express.js
